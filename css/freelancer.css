@@ -54,7 +54,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #58B2DC;
+  background: #58B2DC;
   color: white;
 }
 hr.star-primary {
@@ -73,7 +73,6 @@ header {
   padding: 100px 0;
   text-align: center;
   background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
-  background: #58B2DC;
   color: white;
 }
 header .container {
@@ -228,7 +227,7 @@ section.success {
   position: absolute;
   width: 64%;
   height: 20px;
-  font-size: 50px;
+  font-size: 20px;
   text-align: center;
   top: 50%;
   margin-top: -12px;
